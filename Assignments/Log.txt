@@ -1,0 +1,31 @@
+
+2023/07/12 09:46:48	info	started running	
+2023/07/12 09:46:48	info	MENU displayed	
+2023/07/12 09:46:53	info	Method invoked-getEmployeeDetails 	
+2023/07/12 09:46:53	Error	Exception-IO	
+2023/07/12 09:46:53	info	MENU displayed	
+2023/07/12 09:47:36	info	started running	
+2023/07/12 09:47:36	info	MENU displayed	
+2023/07/12 09:47:40	info	Method invoked-getEmployeeDetails 	
+2023/07/12 09:47:40	Error	Exception-IO	
+2023/07/12 09:47:40	info	MENU displayed	
+2023/07/12 09:48:20	info	started running	
+2023/07/12 09:48:20	info	MENU displayed	
+2023/07/12 09:48:24	info	Method invoked-getEmployeeDetails 	
+2023/07/12 09:48:24	Error	Exception-IO	
+2023/07/12 09:48:24	info	MENU displayed	
+2023/07/12 09:50:06	info	started running	
+2023/07/12 09:50:06	info	MENU displayed	
+2023/07/12 09:50:08	info	Method invoked-getEmployeeDetails 	
+2023/07/12 09:50:08	info	Printed	
+2023/07/12 09:50:08	info	Printed	
+2023/07/12 09:50:08	info	Printed	
+2023/07/12 09:50:08	info	MENU displayed	
+2023/07/12 10:18:53	info	started running	
+2023/07/12 10:18:53	info	MENU displayed	
+2023/07/12 10:19:05	info	Method invoked-getEmployeeDetails 	
+2023/07/12 10:19:05	info	Printed	
+2023/07/12 10:19:05	info	Printed	
+2023/07/12 10:19:05	info	Printed	
+2023/07/12 10:19:05	info	MENU displayed	
+2023/07/12 10:19:08	info	Exit invoked	
