@@ -1,16 +1,13 @@
 package com.litmus7.EmployeeDataFetch.DAO;
 
-import java.util.List;
-import java.util.ArrayList;
-import java.io.IOException;
 import java.io.BufferedReader;
+import java.io.FileNotFoundException;
 import java.io.FileReader;
-import java.util.logging.FileHandler;
-import java.util.logging.Logger;
-import java.util.logging.SimpleFormatter;
+import java.util.ArrayList;
+import java.util.List;
 
 import com.litmus7.EmployeeDataFetch.Entity.EmployeePOJO;
-import com.litmus7.EmployeeDataFetch.Util.LoggerCreate;
+import com.litmus7.EmployeeDataFetch.exception.DataProcessingException;
 public class EmployeeDAO{
 private String fileName;
 public EmployeeDAO(String fileName){
@@ -40,8 +37,9 @@ BufferedReader reader;
 			}
 
 			reader.close();
-		} catch (IOException e) {LoggerCreate.logError("Exception-IO");
-			e.printStackTrace();
+		}
+		catch (FileNotFoundException e) {
+			throw new DataProcessingException("Exception occurd file not found",e);
 		}
 	
 return employeepojoList;

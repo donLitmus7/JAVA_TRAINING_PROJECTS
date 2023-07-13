@@ -29,3 +29,53 @@
 2023/07/12 10:19:05	info	Printed	
 2023/07/12 10:19:05	info	MENU displayed	
 2023/07/12 10:19:08	info	Exit invoked	
+2023/07/12 20:24:30	info	started running	
+2023/07/12 20:24:30	info	MENU displayed	
+2023/07/12 20:26:53	Error	Not an vaid input	
+2023/07/12 20:38:48	info	started running	
+2023/07/12 20:38:48	info	MENU displayed	
+2023/07/12 20:39:01	Error	Not an vaid input	
+2023/07/13 06:57:12	info	started running	
+2023/07/13 06:57:12	info	MENU displayed	
+2023/07/13 06:57:16	info	Method invoked-getEmployeeDetails 	
+2023/07/13 06:57:16	Error	Exception occurd file not found	
+2023/07/13 07:01:18	info	started running with file name"sample.txt";	
+2023/07/13 07:01:18	info	MENU displayed	
+2023/07/13 07:01:22	info	Method invoked-getEmployeeDetails 	
+2023/07/13 07:01:22	Error	Exception occurd file not found	
+2023/07/13 07:02:14	info	started running with file namesample.txt;	
+2023/07/13 07:02:14	info	MENU displayed	
+2023/07/13 07:02:17	info	Method invoked-getEmployeeDetails 	
+2023/07/13 07:02:17	Error	Exception occurd file not found	
+2023/07/13 07:02:52	info	started running with file namesample.txt	
+2023/07/13 07:02:52	info	MENU displayed	
+2023/07/13 07:02:56	info	Method invoked-getEmployeeDetails 	
+2023/07/13 07:02:56	info	Printed	
+2023/07/13 07:02:56	info	Printed	
+2023/07/13 07:02:56	info	Printed	
+2023/07/13 07:02:56	info	MENU displayed	
+2023/07/13 07:03:26	info	Exit invoked	
+2023/07/13 07:18:18	info	started running with file namesample2.txt	
+2023/07/13 07:18:18	info	MENU displayed	
+2023/07/13 07:18:21	info	Method invoked-getEmployeeDetails 	
+2023/07/13 07:18:21	Error	Exception occurd file not found	
+2023/07/13 07:18:25	info	MENU displayed	
+2023/07/13 07:18:59	info	Method invoked-getEmployeeDetails 	
+2023/07/13 07:18:59	info	Printed	
+2023/07/13 07:18:59	info	Printed	
+2023/07/13 07:18:59	info	Printed	
+2023/07/13 07:18:59	info	MENU displayed	
+2023/07/13 07:19:03	info	Exit invoked	
+2023/07/13 07:20:41	info	started running with file namesample2.txt	
+2023/07/13 07:20:41	info	MENU displayed	
+2023/07/13 07:20:46	info	Method invoked-getEmployeeDetails 	
+2023/07/13 07:20:46	Error	Exception occurd file not found	
+2023/07/13 07:20:51	info	MENU displayed	
+2023/07/13 07:20:57	Error	Invaid Input Exception	
+2023/07/13 07:20:57	info	MENU displayed	
+2023/07/13 07:21:03	info	Method invoked-getEmployeeDetails 	
+2023/07/13 07:21:03	info	Printed	
+2023/07/13 07:21:03	info	Printed	
+2023/07/13 07:21:03	info	Printed	
+2023/07/13 07:21:03	info	MENU displayed	
+2023/07/13 07:21:06	info	Exit invoked	
